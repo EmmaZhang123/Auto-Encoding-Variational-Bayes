@@ -1,4 +1,4 @@
-# BreadcrumbsAuto-Encoding-Variational-Bayes
+# Auto-Encoding-Variational-Bayes
 This is the final project for Information Theory and Inference.
 
 ## Description
